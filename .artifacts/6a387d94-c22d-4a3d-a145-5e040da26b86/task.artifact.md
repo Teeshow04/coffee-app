@@ -1,0 +1,4 @@
+- [x] Apply `kotlin-serialization` plugin to `app/build.gradle.kts`
+- [/] Sync Gradle
+- [ ] Build the app
+- [ ] Verify the crash is resolved in logcat
